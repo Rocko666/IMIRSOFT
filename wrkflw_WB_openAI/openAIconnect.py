@@ -32,3 +32,4 @@ if __name__ == "__main__":
             break
         respuesta = generar_respuesta(user_input)
         print(f"Bot: {respuesta}")
+        
